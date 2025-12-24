@@ -1,0 +1,26 @@
+{
+  "name": "test-9",
+  "version": "1.0.0",
+  "description": "חיים מרדכי ולס\r 207293002\r גליל",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haimvales/test-week-9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/haimvales/test-week-9/issues"
+  },
+  "homepage": "https://github.com/haimvales/test-week-9#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
